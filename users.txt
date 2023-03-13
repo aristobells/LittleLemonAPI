@@ -1,0 +1,11 @@
+name: someBody
+pword:dicepineapple
+role:admin(superuser)
+
+name: Emmanuel
+pword:emma@delivery
+role: delivery_crew
+
+name:Jasmine
+pword:jace@littlelemon
+role: customer
